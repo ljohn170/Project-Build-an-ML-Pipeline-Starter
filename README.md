@@ -17,6 +17,7 @@ In this project you will build such a pipeline.
   * [Pre-existing components](#pre-existing-components)
 ## Project Links
 GitHub repository: https://github.com/ljohn170/Project-Build-an-ML-Pipeline-Starter.git
+
 W&B Project: https://wandb.ai/ljohn170-western-governors-university/nyc_airbnb
 ## Preliminary steps
 
